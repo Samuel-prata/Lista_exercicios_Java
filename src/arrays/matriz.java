@@ -2,7 +2,7 @@ package arrays;
 
 import java.util.Scanner;
 
-public class vetor_dois {
+public class matriz {
 
 	public static void main(String[] args) {
 		Scanner l = new Scanner(System.in); 
