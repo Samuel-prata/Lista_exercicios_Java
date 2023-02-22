@@ -3,7 +3,7 @@ package arrays;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class matriz {
+public class vetor {
 
 	public static void main(String[] args) {
 		Scanner l = new Scanner (System.in);
